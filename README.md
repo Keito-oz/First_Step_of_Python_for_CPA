@@ -1,0 +1,2 @@
+# First_Step_of_Python_for_CPA
+会計士のためのはじめてのPython
